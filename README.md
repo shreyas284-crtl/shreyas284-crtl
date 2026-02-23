@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Shreyas
 
-<!--
-**shreyas284-crtl/shreyas284-crtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ISE Student | Developer | Problem Solver  
+Passionate about coding, open source, and building real-world projects  
+Currently exploring Python, Java, Machine Learning, and Software Development  
+Open to internships, collaborations, and opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Python, Java, C/C++  
+- Core: Data Structures & Algorithms, Software Development  
+- Data/ML: Pandas, NumPy, Scikit-learn  
+- Tools: Git, GitHub, VS Code  
+
+---
+
+## What I'm Working On
+- Improving Data Structures & Algorithms  
+- Building software and ML mini-projects  
+- Learning Cloud & DevOps fundamentals  
+
+---
+
+## Let's Connect
+Open to internship opportunities  
+Reach me via GitHub or LinkedIn  
+
+---
+
+Always learning, always building.
